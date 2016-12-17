@@ -5,7 +5,7 @@ HARP  is  the  instrument  used   by  King david.
 
 HARP  search  engine   is  simillar   to  Google.
 
-HARP  Search  engine  is  invented   in  WEB Technology  by  wilmix  jemin  j.
+HARP  Search  engine  is  invented  in  SLING  P.L  by  wilmix  jemin  j.
 
 Today many  hackers  hack  the   websites   in  Google;
 
